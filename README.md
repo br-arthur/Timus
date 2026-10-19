@@ -1,1 +1,1 @@
-These are my solutions for acm.timus.ru.
+These are my solutions for https://acm.timus.ru/.
