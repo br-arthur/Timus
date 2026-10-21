@@ -4,7 +4,7 @@ public class Problem1197 {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         String output = "";
-        for (int N = reader.nextByte(); N > 0; N--) {
+        for (byte N = reader.nextByte(); N > 0; N--) {
             String square = reader.next();
             char file = square.charAt(0);
             char rank = square.charAt(1);
